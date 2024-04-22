@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JuanPabloSanchezV
 - 👀 I’m interested in learning new skill for my career
 - 🌱 I’m currently learning Python
-- ⚡ Fun fact: I´m on my first semester of Financial Engineer
+- ⚡ Fun fact: Am on my first semester of Financial Engineer
 
 <!---
 JuanPabloSanchezV/JuanPabloSanchezV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
